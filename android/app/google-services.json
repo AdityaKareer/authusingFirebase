@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340581873559",
+    "project_id": "madexp5-b3fdb",
+    "storage_bucket": "madexp5-b3fdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340581873559:android:5ecc6193fe9d9f2b7af6d2",
+        "android_client_info": {
+          "package_name": "com.example.authusingfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm-VJQxHpLCy3ebqLdHUfFNEl9Zr_gnFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
